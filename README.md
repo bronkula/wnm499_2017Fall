@@ -9,3 +9,7 @@ Class test for WNM 499 2017 Fall
 - Dale Shin
 - Catherine Flores-Espinosa
 - Katie Noborikawa
+
+# New Changes Made
+I am making changes
+I also made a new file
